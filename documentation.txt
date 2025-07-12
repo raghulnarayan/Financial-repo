@@ -1,0 +1,18 @@
+
+Title: Financial Chatbot Prototype
+
+This is a basic rule-based chatbot built in Python to respond to predefined financial queries about Apple, Microsoft, and Tesla.
+
+✅ Supported Questions:
+1. What is Apple's total revenue in 2024?
+2. What is Microsoft's net income in 2023?
+3. How has Tesla's operating cash flow changed since 2022?
+4. What is Apple's net income trend over 3 years?
+5. What is the total revenue for Tesla in 2023?
+
+💡 Limitations:
+- Only responds to hardcoded queries.
+- No natural language understanding.
+- Not connected to a real-time database.
+
+Run the chatbot using a Python script or Jupyter Notebook.
